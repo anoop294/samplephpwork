@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>DevOps First Class... Ja bewfa lunch krke aa</h1>
+<h1>It high time to learn AWS or catch hold of Adnan again</h1>
 
 <?php
 echo "version :Rev Ver";
